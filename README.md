@@ -1,2 +1,2 @@
-# Github-Contribution-farm-
-why not in python
+# Github farm
+Simple python script that farms contributions 
